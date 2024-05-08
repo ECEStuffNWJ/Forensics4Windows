@@ -6,8 +6,10 @@
 
 
 # Install
-git clone 
+git clone https://github.com/ECEStuffNWJ/Forensics4Windows.git
+
 # Use
+Using Powershell 
 
 # Author
 Nathan W Jones ducatinat@gmail.com  
